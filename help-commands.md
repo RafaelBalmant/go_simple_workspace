@@ -1,0 +1,1 @@
+go mod tidy - ajusta as dependências do módulo Go no arquivo go.mod 
